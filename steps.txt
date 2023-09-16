@@ -1,0 +1,4 @@
+## Steps
+- Read Video Frames
+- grayscale, Extract Lips, Standerdize each frame
+- define vocab (every potential integer in annotations)
