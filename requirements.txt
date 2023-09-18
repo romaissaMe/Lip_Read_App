@@ -1,6 +1,5 @@
-kivy==2.2.1
 tensorflow==2.13.0
 opencv-python==4.8.0.76
-matplotlib==
+matplotlib==3.7.2
 imageio==2.31.3
 gdown==4.7.1

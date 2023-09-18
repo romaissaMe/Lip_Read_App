@@ -1,2 +1,5 @@
 steps.txt
 data/
+__pycache__/
+app/streamlitenv/
+models/
